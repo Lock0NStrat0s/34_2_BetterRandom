@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\bin\Debug\net9.0\34_BetterRandom.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\bin\Debug\net9.0\34_BetterRandom.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\bin\Debug\net9.0\34_BetterRandom.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\bin\Debug\net9.0\34_BetterRandom.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\bin\Debug\net9.0\34_BetterRandom.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\34_BetterRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\34_BetterRandom.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\34_BetterRandom.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\34_BetterRandom.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\34_BetterRandom.sourcelink.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\34_BetterRandom.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\refint\34_BetterRandom.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\34_BetterRandom.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\34_BetterRandom.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_BetterRandomApp\34_BetterRandom\obj\Debug\net9.0\ref\34_BetterRandom.dll
